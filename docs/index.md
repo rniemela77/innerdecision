@@ -3,23 +3,12 @@
 layout: home
 
 hero:
-  name: "innerdecision"
-  text: "A personal blog"
-  tagline: My great project tagline
+  name: "inner decision"
+  text: "A personal blog by Robert Niemela"
+
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Start Reading
+      link: /knowing/
 ---
 

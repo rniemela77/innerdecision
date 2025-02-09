@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Circle shape -->
+  <circle cx="100" cy="100" r="80" fill="#f4f4f4" stroke="#ddd" stroke-width="5"/>
+  
+  <!-- Abstract line element -->
+  <path d="M 50 75 C 75 40, 125 40, 150 75" fill="transparent" stroke="#333" stroke-width="5"/>
+  
+  <!-- Abstract curve -->
+  <path d="M 50 125 C 75 160, 125 160, 150 125" fill="transparent" stroke="#333" stroke-width="5"/>
+  
+  <!-- Inner circle for subtle detail -->
+  <circle cx="100" cy="100" r="40" fill="transparent" stroke="#ddd" stroke-width="5"/>
+</svg>
