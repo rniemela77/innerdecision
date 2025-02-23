@@ -20,6 +20,7 @@ export default defineConfig({
           // { text: "Runtime API Examples", link: "/api-examples" },
           { text: "1. Knowing", link: "/knowing/" },
           { text: "2. Default Mode Network", link: "/default-mode-network/" },
+          { text: "3. Reticular Activating System", link: "/reticular-activating-system/" },
         ],
       },
     ],
