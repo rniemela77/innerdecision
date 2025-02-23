@@ -128,3 +128,9 @@ You might think it’s impossible to identify your “unknown ignorance”, whic
     What I don’t know: “I don’t know what it’s like to be coral.”
     
 3. Visualizing the football stadium as mentioned above. Create an image in your head of a large space around you, which can be filled with ANYTHING. Feel the space around you, and feel its openness. Imagine yourself to be the one “solid” thing in that stadium, and that you represent “what is known”. The rest of the space? Could be filled with anything.
+
+---
+
+Suggested reading:
+- "Zen Mind, Beginner's Mind" by Shunryu Suzuki
+- "The Book of Not Knowing" by Peter Ralston
